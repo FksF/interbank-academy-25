@@ -1,0 +1,12 @@
+{
+  "name": "interbank-academy-25",
+  "version": "1.0.0",
+  "description": "Procesamiento de Transacciones Bancarias (CLI)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
